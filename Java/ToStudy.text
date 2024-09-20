@@ -1,0 +1,12 @@
+
+canonical ctor
+record
+anonymous classes
+Stream
+defaults -> resolve
+HashCode and equals => difference => check once.
+What does hashMap use ? B-tree
+Custom annotations
+Singleton with Reflection and double locking/ double check and single locking
+Hotspot, Javaprofiler
+GC 
